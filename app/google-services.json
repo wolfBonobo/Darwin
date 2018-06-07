@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965166663502",
+    "firebase_url": "https://journey-check.firebaseio.com",
+    "project_id": "journey-check",
+    "storage_bucket": "journey-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965166663502:android:c995257215eab405",
+        "android_client_info": {
+          "package_name": "com.example.pedro.greateranglia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965166663502-5jiqt3us4cvom2us2rmudrtcf9fd1lnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkdsE-lXR9KKlQmiYfV5ebrlsLSKFhM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
